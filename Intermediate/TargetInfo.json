@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TetrisUSFX01",
+			"Path": "C:\\Users\\Legion 5 Pro\\Videos\\Pruebas\\TetrisUSFX01PatronesCinco-main\\TetrisUSFX01Adapter-main\\Source\\TetrisUSFX01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TetrisUSFX01Editor",
+			"Path": "C:\\Users\\Legion 5 Pro\\Videos\\Pruebas\\TetrisUSFX01PatronesCinco-main\\TetrisUSFX01Adapter-main\\Source\\TetrisUSFX01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
